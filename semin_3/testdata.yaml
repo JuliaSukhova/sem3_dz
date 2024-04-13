@@ -1,0 +1,9 @@
+address: https://test-stand.gb.ru
+sleep_time: 3
+browser: chrome
+
+login: GB202311d63248
+passwd: a5f555fc97
+title: Интересная информация
+description: Смотри
+content: Ну что-то есть

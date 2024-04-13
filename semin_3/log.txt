@@ -1,0 +1,17 @@
+2024-04-13 13:01:29 INFO ====== WebDriver manager ======
+2024-04-13 13:01:58 INFO Get LATEST chromedriver version for google-chrome
+2024-04-13 13:01:59 INFO Get LATEST chromedriver version for google-chrome
+2024-04-13 13:02:00 INFO There is no [win64] chromedriver "123.0.6312.122" for browser google-chrome "123.0.6312" in cache
+2024-04-13 13:02:00 INFO Get LATEST chromedriver version for google-chrome
+2024-04-13 13:02:00 INFO WebDriver version 123.0.6312.122 selected
+2024-04-13 13:02:00 INFO Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/123.0.6312.122/win32/chromedriver-win32.zip
+2024-04-13 13:02:00 INFO About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/123.0.6312.122/win32/chromedriver-win32.zip
+2024-04-13 13:02:01 INFO Driver downloading response is 200
+2024-04-13 13:02:02 INFO Get LATEST chromedriver version for google-chrome
+2024-04-13 13:02:03 INFO Driver has been saved in cache [C:\Users\Kate\.wdm\drivers\chromedriver\win64\123.0.6312.122]
+2024-04-13 13:02:08 INFO Test 1 Starting
+2024-04-13 13:02:14 INFO Send GB202311d63248 to element //*[@id="login"]/div[1]/label/input
+2024-04-13 13:02:15 INFO Send a5f555fc97 to element //*[@id="login"]/div[2]/label/input
+2024-04-13 13:02:15 INFO Click login button
+2024-04-13 13:02:17 INFO Login successful
+2024-04-13 13:02:17 INFO Creating a new post
